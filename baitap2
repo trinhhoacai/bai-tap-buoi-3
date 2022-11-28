@@ -1,0 +1,14 @@
+<html>
+    <body>
+        <script>
+     let R;
+     R = prompt("nhap ban kinh:");
+     pi = 3,14;
+     c = 2 * R * pi;
+     document.write("chu vi:"+c);
+     document.write("<br>");
+     let s = R * R * pi ;
+     document.write("dien tich:"+ s);
+        </script> 
+    </body>
+</html>
