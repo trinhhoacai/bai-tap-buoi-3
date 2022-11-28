@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <script>
+            var nam = 2020;
+            var thang = 10;
+            var ngay = 9;
+            document.write(ngay +"-"+ thang +"-"+ nam);
+        </script>
+    </body>
+</html>
