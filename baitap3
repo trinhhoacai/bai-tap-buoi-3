@@ -1,0 +1,12 @@
+<html>
+    <body>
+        <script>
+            let tien=Number(prompt("nhap tien"));
+            let lai = Number(prompt("nhap lai"));
+            let nam = (prompt("nhap nam"));
+            lai = tien * (lai/100);
+            tong = tien + nam * lai ;
+            document.write("tong tien:"+tong);
+        </script>
+    </body>
+</html>
